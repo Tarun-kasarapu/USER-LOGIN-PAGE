@@ -1,0 +1,21 @@
+.inside_top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #c7c7c7;
+    font-size: 1.7rem;
+    height: 50px;
+}
+.create1{
+    display: flex;
+    align-items: center;
+}
+.home_inside{
+    margin-left: 9px;
+}
+.create{
+    margin-right: 55px;
+}
+.logout{
+    margin-right:15px;
+}

@@ -1,0 +1,47 @@
+.create_class1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 670px;
+    font-size:1.6rem;
+}
+.inside_create{
+    background-color: #c7c7c7;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    font-size: 1.7rem;
+}
+.outline{
+    border:2px solid #c7c7c7;
+    height: 350px;
+    border-radius: 5%;
+}
+.creator{
+    
+    height: 150px;
+    
+    margin-left:40px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+.caption{
+    height: 40px;
+    width: 100%;
+    font-size: 1.6rem;
+}
+.file{
+    width: 50%; 
+    height: 40px;
+    margin-top: 20px;
+}
+.submit5{
+    height: 40px;
+    width: 100%;
+    font-size: 1.6rem;
+    margin-top: 20px;
+}
+.memory{
+    margin:20px;
+}

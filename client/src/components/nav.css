@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Doppio+One&family=Readex+Pro:wght@400;500&display=swap');
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Doppio One', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+    text-decoration: none;
+    color:black;
+}
+.inside_nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height:45px;
+    font-size: 1.7rem;
+    background-color: #c7c7c7;
+}
+.items{
+    display: flex;
+    align-items: center;
+}
+.sign{
+    margin-right: 90px;
+}
+.login1{
+    margin-right:40px;
+}
+.Home{
+    margin-left:20px;
+}
+
+
